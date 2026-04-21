@@ -1,0 +1,31 @@
+! Title: Recruiter / Job Spam Domains
+! Description: Domains observed in unsolicited recruiter or job-spam email based on firsthand recipient experience.
+! Version: 0.1.0
+! License: CC0-1.0
+! Expires: 7 days
+! Notes:
+! - Inclusion reflects repeated unwanted recruiting mail or the infrastructure used to send it.
+! - This list is for inbox-defense and filtering use.
+! - Inclusion is not a legal claim of fraud or criminality.
+||qualis1inc.com^
+||diverselynx.com^
+||joboppforyou.com^
+||enterprisesolutioninc.com^
+||centraprise.com^
+||estaffllc.com^
+||nityo.com^
+||e-solutionsinc.com^
+||excelonsolutions.com^
+||ceipalmm.com^
+||infobahnsw.com^
+||vui-inc.us^
+||sm.vui-inc.us^
+||vuimails.com^
+||mmconrep.com^
+||conrepsmtp.com^
+||lorventech.com^
+||sparkpostmail.com^
+||surveymonkeyuser.com^
+||via.act-on.net^
+||mail-out.via.act-on.net^
+||mailgun.net^

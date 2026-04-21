@@ -1,0 +1,26 @@
+# Recruiter / Job Spam Domains
+# Domains observed in unsolicited recruiter or job-spam email based on firsthand recipient experience.
+# Inclusion reflects repeated unwanted recruiting mail or the infrastructure used to send it.
+# Inclusion is not a legal claim of fraud or criminality.
+0.0.0.0 qualis1inc.com
+0.0.0.0 diverselynx.com
+0.0.0.0 joboppforyou.com
+0.0.0.0 enterprisesolutioninc.com
+0.0.0.0 centraprise.com
+0.0.0.0 estaffllc.com
+0.0.0.0 nityo.com
+0.0.0.0 e-solutionsinc.com
+0.0.0.0 excelonsolutions.com
+0.0.0.0 ceipalmm.com
+0.0.0.0 infobahnsw.com
+0.0.0.0 vui-inc.us
+0.0.0.0 sm.vui-inc.us
+0.0.0.0 vuimails.com
+0.0.0.0 mmconrep.com
+0.0.0.0 conrepsmtp.com
+0.0.0.0 lorventech.com
+0.0.0.0 sparkpostmail.com
+0.0.0.0 surveymonkeyuser.com
+0.0.0.0 via.act-on.net
+0.0.0.0 mail-out.via.act-on.net
+0.0.0.0 mailgun.net
