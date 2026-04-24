@@ -25,3 +25,4 @@
 0.0.0.0 mail-out.via.act-on.net
 0.0.0.0 mailgun.net
 0.0.0.0 vaspiretech.com
+0.0.0.0 sbasetech.net

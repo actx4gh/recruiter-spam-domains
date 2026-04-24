@@ -30,3 +30,4 @@
 ||mail-out.via.act-on.net^
 ||mailgun.net^
 ||vaspiretech.com^
+||sbasetech.net^
