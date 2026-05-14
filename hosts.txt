@@ -26,3 +26,4 @@
 0.0.0.0 mailgun.net
 0.0.0.0 vaspiretech.com
 0.0.0.0 sbasetech.net
+0.0.0.0 tryfacta.com

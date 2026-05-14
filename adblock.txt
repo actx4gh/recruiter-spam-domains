@@ -31,3 +31,4 @@
 ||mailgun.net^
 ||vaspiretech.com^
 ||sbasetech.net^
+||tryfacta.com^
