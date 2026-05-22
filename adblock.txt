@@ -32,3 +32,4 @@
 ||vaspiretech.com^
 ||sbasetech.net^
 ||tryfacta.com^
+||oremda.com^

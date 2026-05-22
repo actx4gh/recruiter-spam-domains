@@ -27,3 +27,4 @@
 0.0.0.0 vaspiretech.com
 0.0.0.0 sbasetech.net
 0.0.0.0 tryfacta.com
+0.0.0.0 oremda.com
