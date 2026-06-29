@@ -36,3 +36,5 @@
 ||nttdata.com^
 ||radixtop.com^
 ||stiersol.com^
+||ceipalmail.com^
+||ceipal.com^

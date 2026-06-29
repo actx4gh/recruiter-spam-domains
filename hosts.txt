@@ -31,3 +31,5 @@
 0.0.0.0 nttdata.com
 0.0.0.0 radixtop.com
 0.0.0.0 stiersol.com
+0.0.0.0 ceipalmail.com
+0.0.0.0 ceipal.com
